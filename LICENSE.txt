@@ -1,0 +1,1 @@
+Git has a work stage and temp stage.
