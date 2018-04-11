@@ -7,3 +7,4 @@ Do you know me?
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 Creating a new branch is quick and simple.
+Switched to a new branch 'dev'.
